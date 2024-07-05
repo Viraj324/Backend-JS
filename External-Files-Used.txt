@@ -1,2 +1,10 @@
 git ignore generator
 https://mrkandreev.name/snippets/gitignore-generator/#Node
+
+Nodemon (Dev Dependency)
+git i -D nodemon
+
+Prettier (Dev dependency)
+npm i -D prettier
+--->>.prettierrc create and then add the dependencies
+-->.prettierignore create and then add the ignored code
